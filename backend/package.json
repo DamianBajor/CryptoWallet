@@ -8,7 +8,7 @@
     "express": "^4.17.1",
     "innodb-optimized-uuid": "^1.1.1",
     "md5-typescript": "^1.0.5",
-    "mongoose": "^6.0.12",
+    "mongoose": "^6.11.3",
     "node-cron": "^3.0.2",
     "nodemon": "^2.0.14",
     "prettier": "^2.4.1",
